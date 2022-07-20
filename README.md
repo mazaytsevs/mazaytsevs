@@ -3,11 +3,12 @@ ____
 
 ### My contacts:
 
-[<img align="left" alt="mazaytsevs | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
+[<img align="left" alt="mazaytsevs | LinkedIn" width="40px" src="https://img.icons8.com/color/344/linkedin-circled--v3.png" />][linkedin]
 [<img align="left" alt="mazaytsevs | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="mazaytsevs | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 <br/>
 ____
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazaytsevs&show_icons=true&theme=radical)
 
