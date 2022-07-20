@@ -9,6 +9,7 @@ ____
 <br/>
 ____
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazaytsevs)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 - 🔭 I’m currently working on ...
