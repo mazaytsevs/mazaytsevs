@@ -5,6 +5,7 @@ ____
 
 [<img align="left" alt="mazaytsevs | LinkedIn" width="40px" src="https://img.icons8.com/color/344/linkedin-circled--v3.png" />][linkedin]
 [<img align="left" alt="mazaytsevs | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="mazaytsevs | WA" width="40px" src="https://img.icons8.com/color/344/whatsapp--v5.png" />][WA]
 [<img align="left" alt="mazaytsevs | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="mazaytsevs | VK" width="40px" src="https://img.icons8.com/color/344/vk-com.png" />][vk]
 
@@ -37,4 +38,5 @@ ____
 [instagram]: https://www.instagram.com/mazay_tseva
 [git]: https://github.com/mazaytsevs
 [VK]: https://vk.com/mazay_tseva
+[WA]: https://wa.me/79126246550
 
