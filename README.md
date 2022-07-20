@@ -28,10 +28,10 @@ ____
 
 ### My Skills:
 
-[<img align="left" alt="skill" width="40px" src="https://img.icons8.com/color/344/javascript--v2.png" />]
-[<img align="left" alt="skill" width="40px" src="" />]
-[<img align="left" alt="skill" width="40px" src="" />]
-[<img align="left" alt="skill" width="40px" src="" />]
+[<img align="left" alt="skill" width="60px" src="https://img.icons8.com/color/344/javascript--v2.png" />]
+[<img align="left" alt="skill" width="60px" src="" />]
+[<img align="left" alt="skill" width="60px" src="" />]
+[<img align="left" alt="skill" width="60px" src="" />]
 
 
 ____
