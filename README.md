@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**mazaytsevs/mazaytsevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi everyone! I'm a Fullstack (Frontend/Backend) JavaScript Web developer.
+____
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[resume]: https://drive.google.com/file/d/1fimloQQ7aPQDQ1kvQda6bTDQsP9zl313/view?usp=sharing
+[resumeHH]: https://hh.ru/resume/e74a53f2ff095f7dfb0039ed1f657455356546
+[linkedin]: www.linkedin.com/in/mazaytsevs
+[telegram]: https://t.me/mazay_tseva 
+[instagram]: https://www.instagram.com/mazay_tseva
+[git]: https://github.com/mazaytsevs
