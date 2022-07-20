@@ -26,6 +26,14 @@ ____
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### My Skills:
+
+[<img align="left" alt="skill" width="40px" src="https://img.icons8.com/color/344/javascript--v2.png" />]
+[<img align="left" alt="skill" width="40px" src="" />]
+[<img align="left" alt="skill" width="40px" src="" />]
+[<img align="left" alt="skill" width="40px" src="" />]
+
+
 ____
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazaytsevs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
