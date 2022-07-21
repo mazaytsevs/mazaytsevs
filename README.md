@@ -20,9 +20,6 @@ ____
 
 ____
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazaytsevs&show_icons=true&theme=radical) -->
-<br/>
-
 ### My Skills:
 
 <img align="left" alt="HTML" width="60px" src="https://img.icons8.com/color/344/html-5--v1.png" />
