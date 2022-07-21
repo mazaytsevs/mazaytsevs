@@ -36,7 +36,10 @@ ____
 [<img align="left" alt="skill" width="60px" src="" />]
 [<img align="left" alt="skill" width="60px" src="" />] -->
 ____
+
 <br/>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazaytsevs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
