@@ -12,9 +12,12 @@ ____
 [<img align="left" alt="mazaytsevs | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="mazaytsevs | VK" width="40px" src="https://img.icons8.com/color/344/vk-com.png" />][vk]
 <br/>
+<br/>
 
-Mobile: +79126246550
-Email: zaytseva.m.v@yandex.ru
+☎️: +79126246550
+📩: zaytseva.m.v@yandex.ru
+<br/>
+
 ____
 
 
