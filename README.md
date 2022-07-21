@@ -36,9 +36,6 @@ ____
 [<img align="left" alt="skill" width="60px" src="" />]
 [<img align="left" alt="skill" width="60px" src="" />] -->
 <br/>
-____
-
-<br/>
 <br/>
 <br/>
 
