@@ -32,9 +32,9 @@ ____
 [<img align="left" alt="JavaScript" width="60px" src="https://img.icons8.com/color/344/javascript--v2.png" />]
 - [<img align="left" alt="React" width="60px" src="https://img.icons8.com/color/344/react-native.png" />]
 [<img align="left" alt="Redux" width="60px" src="https://img.icons8.com/color/344/redux.png" />]
+<!-- [<img align="left" alt="skill" width="60px" src="" />]
 [<img align="left" alt="skill" width="60px" src="" />]
-[<img align="left" alt="skill" width="60px" src="" />]
-[<img align="left" alt="skill" width="60px" src="" />]
+[<img align="left" alt="skill" width="60px" src="" />] -->
 ____
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazaytsevs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
