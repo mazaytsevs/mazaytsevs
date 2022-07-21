@@ -1,4 +1,7 @@
-### Hi everyone! I'm a Fullstack (Frontend/Backend) JavaScript Web developer.
+### 👋 Hi everyone! I'm a Fullstack (Frontend/Backend) JavaScript Web developer...
+...with a constant desire for self-development! 💪
+
+I love teamwork as well as solo projects! I am an extroverted introvert, so I am productive in any work environment.
 ____
 
 ### My contacts:
@@ -8,23 +11,16 @@ ____
 [<img align="left" alt="mazaytsevs | WA" width="40px" src="https://img.icons8.com/color/344/whatsapp--v5.png" />][WA]
 [<img align="left" alt="mazaytsevs | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="mazaytsevs | VK" width="40px" src="https://img.icons8.com/color/344/vk-com.png" />][vk]
-
-
 <br/>
+
+Mobile: +79126246550
+Email: zaytseva.m.v@yandex.ru
 ____
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazaytsevs&show_icons=true&theme=radical)
 
 <br/>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ### My Skills:
 
@@ -37,8 +33,6 @@ ____
 [<img align="left" alt="skill" width="60px" src="" />]
 [<img align="left" alt="skill" width="60px" src="" />]
 [<img align="left" alt="skill" width="60px" src="" />]
-
-
 ____
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazaytsevs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
