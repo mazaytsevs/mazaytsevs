@@ -18,10 +18,10 @@ ____
 - 📩: zaytseva.m.v@yandex.ru
 
 <br/>
+
 ____
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazaytsevs&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazaytsevs&show_icons=true&theme=radical) -->
 
 <br/>
 
