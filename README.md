@@ -14,8 +14,8 @@ ____
 <br/>
 <br/>
 
-☎️: +79126246550
-📩: zaytseva.m.v@yandex.ru
+- ☎️: +79126246550
+- 📩: zaytseva.m.v@yandex.ru
 <br/>
 
 ____
