@@ -16,7 +16,7 @@ ____
 
 - ☎️: +79126246550
 - 📩: zaytseva.m.v@yandex.ru
-- Resume: [<img align="left" alt="mazaytsevs | resume" width="40px" src="https://img.icons8.com/plasticine/344/resume.png" />][resumeHH] (in russian)
+- Resume: [<img align="left" alt="mazaytsevs | resume" width="20px" src="https://mosintrast.ru/upload/hh.png?1576585907775" />][resumeHH] (in russian)
 
 
 ____
