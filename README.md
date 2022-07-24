@@ -32,12 +32,12 @@ ____
 <img align="left" alt="PostgreSQL" width="60px" src="https://img.icons8.com/color/344/postgreesql.png" />
 <img align="left" alt="Bootstrap" width="60px" src="https://img.icons8.com/color/344/bootstrap.png" />
 <img align="left" alt="PhotoShop" width="60px" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" />
-
 <br/>
 <br/>
 <br/>
 And also: Sequelize, Sessions, BCrypt, Drag&Drop, Multer, Figma etc.
-
+<br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazaytsevs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
