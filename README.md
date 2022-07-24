@@ -11,6 +11,7 @@ ____
 [<img align="left" alt="mazaytsevs | WA" width="60px" src="https://img.icons8.com/color/344/whatsapp--v5.png" />][WA]
 [<img align="left" alt="mazaytsevs | Instagram" width="60px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="mazaytsevs | VK" width="60px" src="https://img.icons8.com/color/344/vk-com.png" />][vk]
+<br/>
 
 - ☎️: +79126246550
 - 📩: zaytseva.m.v@yandex.ru
