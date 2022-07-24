@@ -27,12 +27,16 @@ ____
 <img align="left" alt="JavaScript" width="60px" src="https://img.icons8.com/color/344/javascript--v2.png" />
 <img align="left" alt="React" width="60px" src="https://img.icons8.com/color/344/react-native.png" />
 <img align="left" alt="Redux" width="60px" src="https://img.icons8.com/color/344/redux.png" />
-<!-- [<img align="left" alt="skill" width="60px" src="" />]
-[<img align="left" alt="skill" width="60px" src="" />]
-[<img align="left" alt="skill" width="60px" src="" />] -->
+<img align="left" alt="API" width="60px" src="https://img.icons8.com/ios/344/api-settings.png" />
+<img align="left" alt="NodeJS" width="60px" src="https://img.icons8.com/fluency/344/node-js.png" />
+<img align="left" alt="PostgreSQL" width="60px" src="https://img.icons8.com/color/344/postgreesql.png" />
+<img align="left" alt="Bootstrap" width="60px" src="https://img.icons8.com/color/344/bootstrap.png" />
+<img align="left" alt="PhotoShop" width="60px" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" />
+
 <br/>
 <br/>
 <br/>
+And also: Sequelize, Sessions, BCrypt, Drag&Drop, Multer, Figma etc.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazaytsevs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
