@@ -19,9 +19,10 @@ ____
 
 ### My resume:
 
-[<img align="left" alt="mazaytsevs | resume" width="20px" src="https://mosintrast.ru/upload/hh.png?1576585907775" />][resumeHH]
+[<img align="left" alt="mazaytsevs | resume" width="40px" src="https://mosintrast.ru/upload/hh.png?1576585907775" />][resumeHH]
 
-____
+____ 
+
 
 ### My Skills:
 
