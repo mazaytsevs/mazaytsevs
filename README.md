@@ -16,6 +16,7 @@ ____
 
 - ☎️: +79126246550
 - 📩: zaytseva.m.v@yandex.ru
+- Resume: [<img align="left" alt="mazaytsevs | resume" width="40px" src="https://img.icons8.com/plasticine/344/resume.png" />][resumeHH] (in russian)
 
 
 ____
@@ -42,8 +43,7 @@ And also: Sequelize, Sessions, BCrypt, Drag&Drop, Multer, Figma etc.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazaytsevs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[resume]: https://drive.google.com/file/d/1fimloQQ7aPQDQ1kvQda6bTDQsP9zl313/view?usp=sharing
-[resumeHH]: https://hh.ru/resume/e74a53f2ff095f7dfb0039ed1f657455356546
+[resumeHH]: https://hh.ru/resume/03a4c77bff0b1625cc0039ed1f373751644145
 [linkedin]: https://linkedin.com/in/mazaytsevs
 [telegram]: https://t.me/mazay_tseva 
 [instagram]: https://www.instagram.com/mazay_tseva
