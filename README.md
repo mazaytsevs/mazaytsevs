@@ -44,7 +44,7 @@ And also: Sequelize, Sessions, BCrypt, Drag&Drop, Multer, Figma etc.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazaytsevs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mazaytsevs&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mazaytsevs&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
