@@ -33,7 +33,6 @@ ____
 <img align="left" alt="Express" width="60px" src="https://stickker.net/wp-content/uploads/2016/01/express.svg_.png" />
 <img align="left" alt="PostgreSQL" width="60px" src="https://img.icons8.com/color/344/postgreesql.png" />
 <img align="left" alt="Bootstrap" width="60px" src="https://img.icons8.com/color/344/bootstrap.png" />
-<img align="left" alt="PhotoShop" width="60px" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" />
 <br/>
 <br/>
 <br/>
