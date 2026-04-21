@@ -1,55 +1,94 @@
-### 👋 Hi everyone! I'm a Fullstack (Frontend/Backend) JavaScript Web developer...
-...with a constant desire for self-development! 💪
+### 👋 Hi, I'm Maria Zaytseva
 
-I love teamwork as well as solo projects! I am an extroverted introvert, so I am productive in any work environment.
+> Backend • Highload • Distributed Systems • Data Pipelines • AI
+
+I design and build scalable backend services, parsers, and data processing pipelines.  
+Experienced in working with large datasets, message brokers, and production-grade infrastructure.
+
+Currently exploring AI integrations in backend systems (LLM, vector search, automation agents).
+
 ____
 
-### My contacts:
+### 🚀 Core Expertise
 
-[<img align="left" alt="mazaytsevs | LinkedIn" width="60px" src="https://img.icons8.com/color/344/linkedin-circled--v3.png" />][linkedin]
-[<img align="left" alt="mazaytsevs | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-[<img align="left" alt="mazaytsevs | WA" width="60px" src="https://img.icons8.com/color/344/whatsapp--v5.png" />][WA]
-[<img align="left" alt="mazaytsevs | Instagram" width="60px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="mazaytsevs | VK" width="60px" src="https://img.icons8.com/color/344/vk-com.png" />][vk]
+- Backend: Node.js (NestJS), TypeScript, Go
+- Data & Highload: ClickHouse, MySQL, MongoDB, Redis/Dragonfly
+- Messaging: RabbitMQ / AMQP (LavinMQ)
+- Infrastructure: Docker, Kubernetes, GitLab CI/CD
+- Observability: Prometheus, Grafana, ElasticSearch, Sentry
+
+____
+
+### 🤖 AI & Data Work
+
+- Built prototypes of AI agents for data processing automation
+- Integrated LLM into backend services
+- Worked with retrieval-based approaches (vector search + LLM)
+- Designed pipelines combining structured data + AI processing
+
+____
+
+### 🧠 What I Do
+
+- Design distributed systems and microservices
+- Build parsing / scraping platforms at scale
+- Optimize database queries and data flows
+- Work with event-driven architecture
+- Improve reliability, monitoring, and observability
+
+____
+
+### 💼 Work Style
+
+- Strong ownership and system thinking  
+- Comfortable working independently and in teams  
+- Focused on clean architecture and long-term scalability  
+
+____
+
+### 📫 Contacts
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />](https://linkedin.com/in/mazaytsevs)
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" />](https://t.me/mazay_tseva)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />](https://github.com/mazaytsevs)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />](mailto:zaytseva.m.v@yandex.ru)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="40" />](https://hh.ru/resume/03a4c77bff0b1625cc0039ed1f373751644145)
+<br/>
+<br/>
+
+____
+
+### 🛠 Tech Stack
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45" />
+<img src="https://avatars.githubusercontent.com/u/54801242?s=200&v=4" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45" />
+
+**Stack:** Node.js (NestJS), TypeScript, Go • ClickHouse, MySQL, MongoDB, Redis • RabbitMQ (AMQP) • Docker, Kubernetes • GitLab CI/CD • Prometheus, Grafana, ElasticSearch, Sentry
+
+**AI:** LLM integrations, AI agents, vector search (RAG), data processing automation
+
 <br/>
 <br/>
 <br/>
 
-- ☎️: +79126246550
-- 📩: zaytseva.m.v@yandex.ru
+____
 
-____ 
-
-
-### My Skills:
-
-<img align="left" alt="HTML" width="60px" src="https://img.icons8.com/color/344/html-5--v1.png" />
-<img align="left" alt="CSS" width="60px" src="https://img.icons8.com/color/344/css3.png" />
-<img align="left" alt="JavaScript" width="60px" src="https://img.icons8.com/color/344/javascript--v2.png" />
-<img align="left" alt="React" width="60px" src="https://img.icons8.com/color/344/react-native.png" />
-<img align="left" alt="Redux" width="60px" src="https://img.icons8.com/color/344/redux.png" />
-<img align="left" alt="API" width="60px" src="https://img.icons8.com/nolan/344/api-settings.png" />
-<img align="left" alt="NodeJS" width="60px" src="https://img.icons8.com/fluency/344/node-js.png" />
-<img align="left" alt="Express" width="60px" src="https://stickker.net/wp-content/uploads/2016/01/express.svg_.png" />
-<img align="left" alt="PostgreSQL" width="60px" src="https://img.icons8.com/color/344/postgreesql.png" />
-<img align="left" alt="Bootstrap" width="60px" src="https://img.icons8.com/color/344/bootstrap.png" />
-<br/>
-<br/>
-<br/>
-
-
-And also: Sequelize, Sessions, BCrypt, Drag&Drop, Multer, Figma etc.
-<br/>
-<br/>
+### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazaytsevs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+____
 
-[resumeHH]: https://hh.ru/resume/03a4c77bff0b1625cc0039ed1f373751644145
 [linkedin]: https://linkedin.com/in/mazaytsevs
 [telegram]: https://t.me/mazay_tseva 
-[instagram]: https://www.instagram.com/mazay_tseva
 [git]: https://github.com/mazaytsevs
-[VK]: https://vk.com/mazay_tseva
-[WA]: https://wa.me/79126246550
-
